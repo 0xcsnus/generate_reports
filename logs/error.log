@@ -1,0 +1,2 @@
+{"code":"ENOENT","errno":-2,"level":"error","path":"output/agreement2023-07-21T07-15-37.712Z.docx","syscall":"open","timestamp":"2023-07-21 11:15:37"}
+{"code":"ENOENT","errno":-2,"level":"error","path":"output/agreement2023-07-21T07-20-13.314Z.docx","syscall":"open","timestamp":"2023-07-21 11:20:13"}
